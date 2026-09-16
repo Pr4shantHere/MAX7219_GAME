@@ -1,8 +1,5 @@
 // Requirements:-
 // Arduino uno, Jumper Wires, 2 buttons, 2 resistors and a MAX 7219 module (it is an 8 by 8 matrix module but requires less setup than a simple matrix display)
-// You need to install two libraries:-
-// Adafruit GFX library (from the Arduino IDE itself)
-// arduino-Max72xxPanel by Markruys on Github.com (to install this, open Arduino IDE -> sketch -> include library -> include zip and select the zip file you downloaded)
 
 // connect CS to 7
 // VCC to 5v
